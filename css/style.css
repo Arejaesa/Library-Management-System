@@ -1,0 +1,22 @@
+.navbar-nav .nav-link {
+    display: flex;
+    align-items: center;
+
+}
+
+
+
+body {
+
+    background-color: #f4f6f9;
+
+}
+
+.card {
+
+    margin-top: 50px;
+
+    border-radius: 10px;
+
+}
+
